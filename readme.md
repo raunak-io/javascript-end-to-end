@@ -1,4 +1,4 @@
-Course Material and FAQ for my Complete JavaScript Course
+                        Course Material and FAQ for my Complete JavaScript Course!!
 This branch of the repo contains practice files and final code for all sections and projects of the course, same as shown in the videos.
 
 Use practice code to start each section, and final code to compare it with your own code in case something doesn't work!
