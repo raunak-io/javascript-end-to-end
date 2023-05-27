@@ -1,5 +1,5 @@
                         Course Material and FAQ for my Complete JavaScript Course!!
-This branch of the repo contains practice files and final code for all sections and projects of the course, same as shown in the videos use this [link](https://github.com/raunak-io/javascript-end-to-end/files/11580907/javascript-end-to-end-master.1.zip) to download.
+This branch of the repo contains practice files and final code for all sections and projects of the course, same as shown in the videos .
 
 Use practice code to start each section, and final code to compare it with your own code in case something doesn't work!
 
@@ -9,7 +9,7 @@ There is also a modifications branch which is kept up-to-date with latest packag
 
 FAQ
 Q1: How do I download the files?
-A: If you're new to GitHub and just want to download the entire code, hit the green button saying "Code", and then choose the "Download ZIP" option. If you can't see the button (on mobile), use this link instead.
+A: If you're new to GitHub and just want to download the entire code, hit the green button saying "Code", and then choose the "Download ZIP" option. If you can't see the button (on mobile), use this [link](https://github.com/raunak-io/javascript-end-to-end/files/11580907/javascript-end-to-end-master.1.zip) instead.
 
 Q2: I'm stuck! Where do I get help?
 A: Have you actually tried to fix the problem on your own? Have you compared your code to the final code? If you still failed fixing your problem, please post a detailed description of the problem to the Q&A area of that video over at Udemy, along with a codepen/stackblitz containing your code. You will get help there. Please don't send me a personal message or email to fix coding problems.
