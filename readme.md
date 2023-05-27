@@ -1,5 +1,5 @@
                         Course Material and FAQ for my Complete JavaScript Course!!
-This branch of the repo contains practice files and final code for all sections and projects of the course, same as shown in the videos.
+This branch of the repo contains practice files and final code for all sections and projects of the course, same as shown in the videos use this [link](https://github.com/raunak-io/javascript-end-to-end/files/11580907/javascript-end-to-end-master.1.zip) to download.
 
 Use practice code to start each section, and final code to compare it with your own code in case something doesn't work!
 
